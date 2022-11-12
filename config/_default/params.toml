@@ -16,7 +16,7 @@ notAllowedTypesInArchive = ["about", "projects", "resume"] # not allowed page ty
 notAllowedTypesInHomeFeed = ["about", "contact", "resume"]
 enablePinnedPosts = true # show pinned posts first in the main view
 
-viewportSize = "wide" # widest, wider, wide, normal, narrow
+viewportSize = "widest" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 minItemsToShowInTagCloud = 5 # Minimum items to show in tag cloud
@@ -71,7 +71,7 @@ enableToc = true # single page table of contents, you can replace this param to 
 hideToc = false # Hide or Show toc
 tocPosition = "outer" # inner, outer
 tocFolding = true
-enableTocSwitch = true # single page table of contents visibility switch
+enableTocSwitch = false # single page table of contents visibility switch
 itemsPerCategory = 5 # maximum number of posts shown in the sidebar.
 sidebarPosition = "right" # bio, profile component layout position
 tocLevels = ["h2", "h3", "h4"] # minimum h2, maximum h4 in your article
@@ -79,9 +79,9 @@ enableSidebarPostsByOrder = false # another lists in the sidebar
 
 # footer
 showPoweredBy = true # show footer text: Powered by Hugo and Zzo theme
-showFeedLinks = true # RSS Feed 
+showFeedLinks = false # RSS Feed 
 showSocialLinks = true # email, facebook, twitter ...
-enableLangChange = true # show button at bottom left of footer.
+enableLangChange = false # show button at bottom left of footer.
 
 # service
 googleTagManager = "" # GTM-XXXXXX
