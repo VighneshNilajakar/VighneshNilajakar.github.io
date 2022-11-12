@@ -10,16 +10,16 @@ meta_image = "/meta_image.png"
 themecolor = "dark"
 
 themeOptions = ["dark"] # select options for site color theme
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase"] # not allowed page types in home page. type can be set in front matter or default to folder name.
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase"] # not allowed page types in home page sidebar(recent post titles).
-notAllowedTypesInArchive = ["about", "talks", "showcase"] # not allowed page types in archive page
-notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
+notAllowedTypesInHome = ["contact", "about", "resume"] # not allowed page types in home page. type can be set in front matter or default to folder name.
+notAllowedTypesInHomeSidebar = ["about", "resume"] # not allowed page types in home page sidebar(recent post titles).
+notAllowedTypesInArchive = ["about", "projects", "resume"] # not allowed page types in archive page
+notAllowedTypesInHomeFeed = ["about", "contact", "resume"]
 enablePinnedPosts = true # show pinned posts first in the main view
 
-viewportSize = "normal" # widest, wider, wide, normal, narrow
+viewportSize = "wide" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
-minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
+minItemsToShowInTagCloud = 5 # Minimum items to show in tag cloud
 
 # appbar
 enableAppbarSearchIcon = false
