@@ -56,7 +56,7 @@ bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimag
 useGravatar = false # we use this option highest priority
 location = "Karnataka, India"
 organization = "MMEC"
-link = "https://github.com/zzossig/hugo-theme-zzo"
+#link = "https://github.com/zzossig/hugo-theme-zzo"
 
 # sidebar
 enableBio = true # in home page sidebar
