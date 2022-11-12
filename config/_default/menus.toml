@@ -1,39 +1,35 @@
 [[main]]
-  identifier = "about"
-  name = "about"
-  url = "about"
+  identifier = "home"
+  name = "Home"
+  url = ""
   weight = 1
 
 [[main]]
-  identifier = "archive"
-  name = "archive"
-  url = "archive"
+  identifier = "projects"
+  name = "Projects"
+  url = "projects"
   weight = 2
 
 [[main]]
-  identifier = "gallery"
-  name = "gallery"
-  url = "gallery"
+  identifier = "blogs"
+  name = "Blogs"
+  url = "blogs"
   weight = 3
-    
-[[main]]
-  parent = "gallery"
-  name = "cartoon"
-  url = "gallery/cartoon"
 
 [[main]]
-  parent = "gallery"
-  name = "photo"
-  url = "gallery/photo"
-
-[[main]]
-  identifier = "posts"
-  name = "posts"
-  url = "posts"
+  identifier = "about"
+  name = "About Me"
+  url = "about"
   weight = 4
-    
+
 [[main]]
-  identifier = "notes"
-  name = "notes"
-  url = "notes"
+  identifier = "resume"
+  name = "Resume"
+  url = "resume"
   weight = 5
+
+[[main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "contact"
+  weight = 6

@@ -1,13 +1,15 @@
-logoText = "Zzo" # Logo text that appears in the site navigation bar.
+logoText = "" # Logo text that appears in the site navigation bar.
 logoType = "short" # long, short -> short: squre shape includes logo text, long: rectangle shape not includes logo text
 logo = true # Logo that appears in the site navigation bar.
-description = "The Zzo theme for Hugo example site." # for SEO
+description = "Vighnesh Nilajakar's Website, Featuring his Blogs and Projects" # for SEO
 custom_css = [] # custom_css = ["scss/custom.scss"] and then make file at root/assets/scss/custom.scss
 custom_js = [] # custom_js = ["js/custom.js"] and then make file at root/assets/js/custom.js
-useFaviconGenerator = false # https://www.favicon-generator.org/
+useFaviconGenerator = true # https://www.favicon-generator.org/
 languagedir = "ltr" # ltr / rtl
+meta_image = "/meta_image.png"
+themecolor = "dark"
 
-themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"] # select options for site color theme
+themeOptions = ["dark"] # select options for site color theme
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase"] # not allowed page types in home page. type can be set in front matter or default to folder name.
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase"] # not allowed page types in home page sidebar(recent post titles).
 notAllowedTypesInArchive = ["about", "talks", "showcase"] # not allowed page types in archive page
