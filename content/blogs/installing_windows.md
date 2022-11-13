@@ -1,7 +1,7 @@
 ---
 title: "Installing Windows" # apperared on a card component
 description: Yup, I Installed Windows ! # apperared on a card component
-date: 13-11-2022 
+date: {{ .Date }}
 ---
 <h3 id="introduction">Introduction</h3>
 <p align= "left" style="font-size:20px; padding: 10px;">It's an Unfortunate Event but it has happened, I have Installed Windows 10 😔. Destroying all my FOSS Principles, I installed this Proprietary piece of Software. Just for all of the Normies who will be reading these Blogs 😢, also to see how an Optimized Version of Windows works in Comparision to Linux 😅.</p>
