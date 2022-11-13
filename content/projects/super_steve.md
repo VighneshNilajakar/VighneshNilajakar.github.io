@@ -1,6 +1,7 @@
 ---
 title: "SUPER STEVE" # apperared on a card component
 description: A Minecraft Parody # apperared on a card component
+date: 10/11/2022
 ---
 <h3 id="introduction">Introduction</h3>
 <p align= "left" style="font-size:20px; padding: 10px;"><a href="https://scratch.mit.edu/projects/713053611" target="_blank" style="color : white">Super Steve</a> is a <a href="https://www.minecraft.net/" target="_blank" style="color : white">Minecraft</a> Parody, which I made after watching the <a href="https://www.edx.org/cs50" target="_blank" style="color : white">CS50</a> Lecture.</p>
