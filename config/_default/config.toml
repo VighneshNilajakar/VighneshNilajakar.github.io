@@ -30,8 +30,8 @@ googleAnalytics = ""
     lineNumbersInTable = true
     noClasses = false
   [markup.tableOfContents]
-    endLevel = 3
-    ordered = false
+    endLevel = 4
+    ordered = true
     startLevel = 2
 
 [outputs]

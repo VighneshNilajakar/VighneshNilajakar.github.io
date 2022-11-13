@@ -16,7 +16,7 @@ notAllowedTypesInArchive = ["about", "projects", "resume"] # not allowed page ty
 notAllowedTypesInHomeFeed = ["about", "contact", "resume"]
 enablePinnedPosts = true # show pinned posts first in the main view
 
-viewportSize = "wide" # widest, wider, wide, normal, narrow
+viewportSize = "noraml" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 minItemsToShowInTagCloud = 5 # Minimum items to show in tag cloud
@@ -63,18 +63,18 @@ enableBio = true # in home page sidebar
 enableBioImage = true # in home page sidebar
 enableSidebar = true # Set to false to create the full width of the content.
 enableSidebarTags = false # if you want to use tags.
-enableSidebarSeries = true
-enableSidebarCategories = true
+enableSidebarSeries = false
+enableSidebarCategories = false
 enableHomeSidebarTitles = true
 enableListSidebarTitles = true
-enableToc = true # single page table of contents, you can replace this param to toc(toc = true)
+toc = true # single page table of contents, you can replace this param to toc(toc = true)
 hideToc = false # Hide or Show toc
 tocPosition = "outer" # inner, outer
 tocFolding = true
 enableTocSwitch = false # single page table of contents visibility switch
 itemsPerCategory = 5 # maximum number of posts shown in the sidebar.
 sidebarPosition = "right" # bio, profile component layout position
-tocLevels = ["h2", "h3", "h4"] # minimum h2, maximum h4 in your article
+tocLevels = ["h2", "h3", "h4", "h5"] # minimum h2, maximum h4 in your article
 enableSidebarPostsByOrder = false # another lists in the sidebar
 
 # footer
@@ -86,13 +86,13 @@ enableLangChange = false # show button at bottom left of footer.
 # service
 googleTagManager = "" # GTM-XXXXXX
 baiduAnalytics = "" # alternative of google analytics
-enableBusuanzi = false # if set true, total page view, total unique visitors show up in the footer.
+enableBusuanzi = true # if set true, total page view, total unique visitors show up in the footer.
 busuanziSiteUV = true # unique visitors (total number of visitors)
 busuanziSitePV = true # site total page view count
 busuanziPagePV = true # post view count
 
 # comment
-enableComment = true
+enableComment = false
 disqus_shortname = "" 
 commento = false
 
@@ -141,18 +141,18 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions] # if set, social icons will show up.
-  email = "mailto:your@email.com"
+  email = "mailto:vighneshnilajakar2@gmail.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = "https://www.facebook.com/profile.php?id=100067126757072"
+  twitter = "https://twitter.com/VinuNilajakar"
+  github = "https://github.com/VighneshNilajakar"
   stack-overflow = ""
-  instagram = ""
+  instagram = "https://www.instagram.com/vighneshnilajakar/"
   google-plus = ""
-  youtube = ""
+  youtube = "https://youtube.com/@vighneshnilajakar"
   medium = ""
   tumblr = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/vighnesh-nilajakar-986b5a225/"
   pinterest = ""
   stack-exchange = ""
   telegram = ""
@@ -192,11 +192,8 @@ commento = false
   name = "facebook"
 [[share]]
   name = "twitter"
-  username = ""
-
-[[footerLinks]]
-  name = ""
-  link = ""
-[[footerLinks]]
-  name = ""
-  link = ""
+  username = "VinuNilajakar"
+[[share]]
+  name = "reddit"
+[[share]]
+  name = "whatsapp"
