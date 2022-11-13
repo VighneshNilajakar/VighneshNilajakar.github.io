@@ -1,6 +1,5 @@
 ---
 title: "SUPER STEVE" # apperared on a card component
-date: 2020-01-19T21:13:42+09:00
 description: A Minecraft Parody # apperared on a card component
 ---
 <h3 id="introduction">Introduction</h3>
