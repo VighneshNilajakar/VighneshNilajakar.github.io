@@ -1,7 +1,7 @@
 ---
 title: "Grocery Shop Management System" # apperared on a card component
 description: A Software to manage A Grocery Shop. # apperared on a card component
-date: "13-11-2022"
+date: 2022-11-12
 ---
 <h3 id="introduction">Introduction</h3>
 <p align= "left" style="font-size:20px; padding: 10px;"><a href="https://github.com/VighneshNilajakar/Grocery_Shop_Management_System" target="_blank" style="color : white">Grocery Shop Management System</a> is a Software made to ease the management of a Grocery Shop and assists in keeping logs of Products, Customers, Inventory, and Bills. This Software can run on most CPUs, Its deployment is easy, and the UI is CLI based.</p>
