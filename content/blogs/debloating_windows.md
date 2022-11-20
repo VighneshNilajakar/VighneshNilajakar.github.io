@@ -12,7 +12,7 @@ date: 2022-11-19
 <img style="padding: 15px 15px 15px 15px" align="centre" src="https://github.com/VighneshNilajakar/VighneshNilajakar.github.io/blob/main/static/images/blogs/powershell.png?raw=true" title="Opening PowerShell as Administrator" width="auto" hieght="auto">
 <p align= "left" style="font-size:20px; padding: 10px;">Next, Paste this Command to the PowerShell.</p>
 <code style="padding: 10px; font-size: 90%">iwr -useb https://christitus.com/win | iex</code>
-<br>
+<h3 id="usage">Usage</h3>
 <p align= "left" style="font-size:20px; padding: 10px;">An Intuitive Menu of the Utility will open up, Where you can Select what it does, It has Helpful Descriptions of Actions it can take, and a Very Clean GUI.</p>
 <img style="padding: 15px 15px 15px 15px" align="centre" src="https://github.com/VighneshNilajakar/VighneshNilajakar.github.io/blob/main/static/images/blogs/uwu_i.png?raw=true" title="Ultimate Windows Utility Install Page" width="auto" hieght="auto">
 <p align= "left" style="font-size:20px; padding: 10px;">From this Menu you can Install Applications. It uses Winget to Install Applications. You can view the Logs on Other Instance of PowerShell. Then, you can shift to the tab named Tweaks.</p>
