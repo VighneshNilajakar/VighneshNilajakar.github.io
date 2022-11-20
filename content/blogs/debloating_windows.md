@@ -15,3 +15,4 @@ date: 2022-11-19
 <br>
 <p align= "left" style="font-size:20px; padding: 10px;">An Intuitive Menu of the Utility will open up, Where you can Select what it does, It has Helpful Descriptions of Actions it can take, and a Very Clean GUI.</p>
 <img style="padding: 15px 15px 15px 15px" align="centre" src="https://github.com/VighneshNilajakar/VighneshNilajakar.github.io/blob/main/static/images/blogs/uwu_i.png?raw=true" title="Ultimate Windows Utility Install Page" width="auto" hieght="auto">
+<p align= "left" style="font-size:20px; padding: 10px;">From this Menu you can Install Applications. It uses Winget to Install Applications.
