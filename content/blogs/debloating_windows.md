@@ -4,7 +4,7 @@ description: Trimming that Fat-Ass piece of Software ! # apperared on a card com
 date: 2022-11-19
 ---
 <h3 id="introduction">Introduction</h3>
-<p align= "left" style="font-size:20px; padding: 10px;">Now, that we have installed Windows 10, We need to Debloat it. It's stuffed with Useless Applicatons and Packages, Used for Telemetry. Also, We will be able to make it faster as Lesser Resources will be used. Anyone can use this Guide even if you were already using your Windows Machine or If you are on Windows 11. But I recommend you to Backup your Existing Data, Just to be Safe. </p>
+<p align= "left" style="font-size:20px; padding: 10px;">Now, that we have installed Windows 10, We need to Debloat it. It is stuffed with Useless Applicatons and Packages, Used for Telemetry. Also, We will be able to make it faster as Lesser Resources will be used. Anyone can use this Guide even if you were already using your Windows Machine or If you are on Windows 11. But I recommend you to Backup your Existing Data, Just to be Safe. </p>
 <h3 id="ultimate_windows_utility">Ultimate Windows Utility</h3>
 <p align= "left" style="font-size:20px; padding: 10px;">Ultimate Windows Utility is an Free and Open Source Utility to Debloat Windows 10 and 11. It is developed by Chris Titus and some Devs. This Utilty aims to make Debloating Windows easier as Microsoft keeps on feeding it with Bloatware.</p>
 <h3 id="installing_the_utility">Installing the Utility</h3>
@@ -22,3 +22,5 @@ date: 2022-11-19
 <p align= "left" style="font-size:20px; padding: 10px;">Here, You can configure your Settings and Install required Dependencies and Features. You can Install .NET Frameworks used to run Microsoft Applications, HyperV Virtualization is used to run Virtual Machines, Legacy Media (WMP, DirectPlay) is used for Background Playing, NFS is used for move files on a Network and Windows Subsystem for Linux is used to run Linux Binaries on Windows. You can Install these Features according to your need. The Fixes Section can be used to Fix existing Systems, You can Setup Autologin, Reset Windows Updates and It can Scan for Corrupt Systems. Also you can access Panels to Set-Up your System, From The Legacy Windows Panels. Next, Shift to the Update Section.</p>
 <img style="padding: 15px 15px 15px 15px" align="centre" src="https://github.com/VighneshNilajakar/VighneshNilajakar.github.io/blob/main/static/images/blogs/uwu_u.png?raw=true" title="Ultimate Windows Utility Update Page" width="auto" hieght="auto">
 <p align= "left" style="font-size:20px; padding: 10px;">Here, You can Select settings for Updates According to your Prefrences. Select Option According to your needs, By Clicking the Option. Descriptions are given below the Options.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p align= "left" style="font-size:20px; padding: 10px;">This Utility is great for Debloating Windows, Kudos to Chris titus and Devs of this Project.</p>
