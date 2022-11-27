@@ -1,7 +1,7 @@
 ---
 title: "Package Management" # apperared on a card component
 description: Package Management in Windows ! # apperared on a card component
-date: 2022-27-11
+date: 2022-11-27
 ---
 <h3 id="introduction">Introduction</h3>
 <p align= "left" style="font-size:20px; padding: 10px;">Installing Applications in Windows isn't Secure. We either download executable files from some Websites or from The Microsoft Store where many Applications are Paid or Unavailable. Also, Installing Executables from some Random Websites, Makes updating them a pain in the ass and nor these Executable Files Verified. Also with The Microsoft Store, You don't get the entire fleet of Applications to Install. So, What is the Solution?</p>
