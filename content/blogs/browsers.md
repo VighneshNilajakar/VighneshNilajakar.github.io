@@ -1,6 +1,5 @@
 ---
-title: "Package Management" # apperared on a card component
-description: Package Management in Windows ! # apperared on a card component
+title: "Browsers" # apperared on a card component
 date: 2022-12-03
 ---
 <h3 id="introduction">Introduction</h3>
