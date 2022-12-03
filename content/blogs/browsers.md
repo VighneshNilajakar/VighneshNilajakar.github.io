@@ -1,5 +1,6 @@
 ---
 title: "Browsers" # apperared on a card component
+description: "Browsers, The Holy Portal to the Internet."
 date: 2022-12-03
 ---
 <h3 id="introduction">Introduction</h3>
