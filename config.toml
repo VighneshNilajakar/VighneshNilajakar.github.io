@@ -1,0 +1,4 @@
+baseURL = 'https://vighneshnilajakar.github.io/'
+languageCode = 'en-us'
+title = 'Vighnesh Nilajakar'
+theme = 'zzo'
