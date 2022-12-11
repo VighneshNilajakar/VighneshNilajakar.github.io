@@ -24,7 +24,7 @@ Installation Command : <code style="padding: 10px; font-size: 90%">winget instal
 <h3 id="ungoogled-chromium">Ungoogled Chromium</h3>
 <img style="padding: 15px 15px 15px 15px" align="centre" src="https://github.com/VighneshNilajakar/VighneshNilajakar.github.io/blob/main/static/images/blogs/ungoogled-chromium.png?raw=true" title="Ungoogled Chromium" width="auto" hieght="auto">
 <p align= "left" style="font-size:20px; padding: 10px;"><a href="https://ungoogled-software.github.io/" target="_blank" style="color : white">Ungoogled Chromium</a> is just like Chromium, but without Google Services baked in. You can use Google Services and other Functionalities, But it just doesn't bake in those services by default. As a result, It doesn't Bloat itself and decreases Resource Usage. It features tweaks to enhance privacy, transparency, and control. all in all, if you don't want to share your data with Google you can use Ungoogled-Chromium.
-<br>
+<br> 
 Installation Command : <code style="padding: 10px; font-size: 90%">winget install -e --id eloston.ungoogled-chromium</code></p>
 <h3 id="brave-browser">Brave Browser</h3>
 <img style="padding: 15px 15px 15px 15px" align="centre" src="https://github.com/VighneshNilajakar/VighneshNilajakar.github.io/blob/main/static/images/blogs/brave-browser.png?raw=true" title="Brave Browser" width="auto" hieght="auto">
