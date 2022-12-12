@@ -1,7 +1,7 @@
 ---
 title: "Browsers" # apperared on a card component
 description: "Browsers, The Holy Portal to the Internet."
-date: 2022-12-03
+date: 2022-12-10
 ---
 <h3 id="introduction">Introduction</h3>
 <p align= "left" style="font-size:20px; padding: 10px;">Browsers, The Holy Portal to the Internet. Nowadays, People mostly use Laptops or PCs to access the Internet via Web Browsers. Most Machines are used to Browse or Edit Documents. Now, Browsers do Support a lot of Functionalities. So, they need to be Features Rich. As a result, they become Chunky. In this Blog, I won't be talking about <a href="https://itsfoss.com/terminal-web-browsers/" target="_blank" style="color : white">CLI(Command Line Interface) based Browsers</a>. As, They are really complex to use, even for me. So, I prefer using <a href="https://en.wikipedia.org/wiki/Graphical_user_interface" target="_blank" style="color : white">GUI(Graphical User Interface)</a> based Browsers. Most browsers today are based on Chromium, and only a few Gekko and Webkit-based Browsers exist.</p>
