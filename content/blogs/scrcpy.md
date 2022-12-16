@@ -4,11 +4,11 @@ description: "Screen Mirroring made easier !"
 date: 2022-12-15
 ---
 <h3 id="introduction">Introduction</h3>
-<p align= "left" style="font-size:20px; padding: 10px;"><a href="https://github.com/Genymobile/scrcpy" target="_blank" style="color : white">Scrcpy, Abberivated from "Screen Copy" is an application that provides Mirroring and Controlling capabilities, An Android Device via USB or over A Network. It is a Multi-Platform, Open Source, and Free Application.
+<p align= "left" style="font-size:20px; padding: 10px;"><a href="https://github.com/Genymobile/scrcpy" target="_blank" style="color : white">Scrcpy</a>, Abberivated from "Screen Copy" is an application that provides Mirroring and Controlling capabilities, An Android Device via USB or over A Network. It is a Multi-Platform, Open Source, and Free Application.
 <br>
 Your Android needs to be at least Android 5.0, also you need to enable USB or ADB debugging on your Android. Some Users might need to enable additional settings to control Mouse and Keyboard.</p>
 <h3 id="installation">Installation</h3>
-<p align= "left" style="font-size:20px; padding: 10px;">You can view scrcpy's Github to read its Installation and Usage Guide.
+<p align= "left" style="font-size:20px; padding: 10px;">You can view Scrcpy's Github to read its <a href="https://github.com/Genymobile/scrcpy#get-the-app" target="_blank" style="color : white">Installation</a> and <a href="https://github.com/Genymobile/scrcpy/#run" target="_blank" style="color : white">Usage Guide</a>.
 <br>
 Installation Commands :
 <br>
