@@ -10,11 +10,11 @@ Your Android needs to be at least Android 5.0, also you need to enable USB or AD
 <h3 id="installation">Installation</h3>
 <p align= "left" style="font-size:20px; padding: 10px;">You can view Scrcpy's Github to read its <a href="https://github.com/Genymobile/scrcpy#get-the-app" target="_blank" style="color : white">Installation</a> and <a href="https://github.com/Genymobile/scrcpy/#run" target="_blank" style="color : white">Usage Guide</a>.
 <br>
-Installation Commands :
+Installation Commands : Using <a href="https://vighneshnilajakar.github.io/blogs/package_management/#chocolatey" target="_blank" style="color : white">choco</a>,
 <br>
-<code style="padding: 10px; font-size: 90%">choco install scrcpy</code> 
+<code style="padding: 10px; font-size: 90%">choco install adb</code> 
 <br>
-<code style="padding: 10px; font-size: 90%">choco install adb </code></p>
+<code style="padding: 10px; font-size: 90%">choco install scrcpy </code></p>
 <h3 id="features">Features</h3>
 <h4 id="recording">Recording</h4>
 <p align= "left" style="font-size:20px; padding: 10px;">It features Recording of Mirrored Android Screen, It will be a great tool to record Games, without degrading Device Performance. As Video is recorded on Computer. It can also add Buffering to the Device. This might increase Latency but reduces jitter.</p>
