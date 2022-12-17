@@ -43,6 +43,7 @@ Installation Commands : Using <a href="https://vighneshnilajakar.github.io/blogs
 <h3 id="guiscrcpy">GUIscrcpy</h3>
 <p align= "left" style="font-size:20px; padding: 10px;">You can use <a href="https://guiscrcpy.srev.in/" target="_blank" style="color : white">guiscrcpy</a>, It is a Simple, Pluggable, Multi-Platform, Graphical User Interface for scrcpy. It is written entirely in Python, You can check its <a href="https://github.com/srevinsaju/guiscrcpy#-guiscrcpy" target="_blank" style="color : white">GitHub Page</a> for more Instructions. You can Install it with <a href="https://vighneshnilajakar.github.io/blogs/package_management/#scoop" target="_blank" style="color : white">Scoop Package Manager</a>.
 <br>
+<br>
 <code style="padding: 10px; font-size: 90%">scoop bucket add extras</code> 
 <br>
 <code style="padding: 10px; font-size: 90%">scoop install guiscrcpy</code></p>
