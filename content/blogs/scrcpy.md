@@ -1,7 +1,7 @@
 ---
 title: "Screen Mirroring" # apperared on a card component
 description: "Screen Mirroring made easier !"
-date: 2022-12-15
+date: 2022-12-17
 ---
 <h3 id="introduction">Introduction</h3>
 <p align= "left" style="font-size:20px; padding: 10px;"><a href="https://github.com/Genymobile/scrcpy" target="_blank" style="color : white">Scrcpy</a>, Abberivated from "Screen Copy" is an application that provides Mirroring and Controlling capabilities, An Android Device via USB or over A Network. It is a Multi-Platform, Open Source, and Free Application.
