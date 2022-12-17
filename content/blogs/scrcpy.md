@@ -43,6 +43,6 @@ Installation Commands : Using <a href="https://vighneshnilajakar.github.io/blogs
     </li>
 </ul>
 <h3 id="guiscrcpy">GUIscrcpy</h3>
-<p align= "left" style="font-size:20px; padding: 10px;">You can use guiscrcpy, It is a Simple, Pluggable, Multi-Platform, Graphical User Interface for scrcpy. It is written entirely in Python, You can check its GitHub Page for more Instructions. You can Install it with Scoop Package Manager. You can read its Features here on their Github Page.</p>
+<p align= "left" style="font-size:20px; padding: 10px;">You can use <a href="https://guiscrcpy.srev.in/" target="_blank" style="color : white">guiscrcpy</a>, It is a Simple, Pluggable, Multi-Platform, Graphical User Interface for scrcpy. It is written entirely in Python, You can check its <a href="https://github.com/srevinsaju/guiscrcpy#-guiscrcpy" target="_blank" style="color : white">GitHub Page</a> for more Instructions. You can Install it with <a href="https://vighneshnilajakar.github.io/blogs/package_management/#scoop" target="_blank" style="color : white">Scoop Package Manager</a>. You can read its Features here on their Github Page.</p>
 <h3 id="conclusion">Conclusion</h3>
 <p align= "left" style="font-size:20px; padding: 10px;">All in All, scrcpy is an Award Winning Screen Mirroring Tool. It's a great alternative to those Propritrary Screen Mirroring Software. I think there are really great Projects you can do with Screen Mirroring. It just takes your Old Smartphone and Machine to reuse. Find the Beauty of using your Hardware to the Limits with me.</p>
