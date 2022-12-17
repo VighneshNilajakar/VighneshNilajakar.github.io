@@ -4,9 +4,7 @@ description: "Screen Mirroring made easier !"
 date: 2022-12-17
 ---
 <h3 id="introduction">Introduction</h3>
-<p align= "left" style="font-size:20px; padding: 10px;"><a href="https://github.com/Genymobile/scrcpy" target="_blank" style="color : white">Scrcpy</a>, Abberivated from "Screen Copy" is an application that provides Mirroring and Controlling capabilities, An Android Device via USB or over A Network. It is a Multi-Platform, Open Source, and Free Application.
-<br>
-Your Android needs to be at least Android 5.0, also you need to enable USB or ADB debugging on your Android. Some Users might need to enable additional settings to control Mouse and Keyboard.</p>
+<p align= "left" style="font-size:20px; padding: 10px;"><a href="https://github.com/Genymobile/scrcpy" target="_blank" style="color : white">Scrcpy</a>, Abberivated from "Screen Copy" is an application that provides Mirroring and Controlling capabilities to an Android Device via USB or over A Network. It is a Multi-Platform, Open Source, and Free Application. Your Android needs to be at least Android 5.0, also you need to enable USB or ADB debugging on your Android. Some Users might need to enable additional settings to control Mouse and Keyboard.</p>
 <h3 id="installation">Installation</h3>
 <p align= "left" style="font-size:20px; padding: 10px;">You can view Scrcpy's Github to read its <a href="https://github.com/Genymobile/scrcpy#get-the-app" target="_blank" style="color : white">Installation</a> and <a href="https://github.com/Genymobile/scrcpy/#run" target="_blank" style="color : white">Usage Guide</a>.
 <br>
@@ -19,11 +17,11 @@ Installation Commands : Using <a href="https://vighneshnilajakar.github.io/blogs
 <ul>
     <li>
     <h4 id="recording">Recording</h4>
-    <p align= "left" style="font-size:20px; padding: 10px;">It features <a href="https://github.com/Genymobile/scrcpy#recording" target="_blank" style="color : white">Recording</a> of Mirrored Android Screen, It will be a great tool to record Games, without degrading Device Performance. As Video is recorded on Computer. It can also add Buffering to the Device. This might increase Latency but reduces jitter. <a href="https://github.com/Genymobile/scrcpy#recording" target="_blank" style="color : white">Read More</a> about Recording via Scrcpy.</p>
+    <p align= "left" style="font-size:20px; padding: 10px;">It features Recording of Mirrored Android Screen, It will be a great tool to record Games, without degrading Device Performance. As Video is recorded on Computer. It can also add Buffering to the Device. This might increase Latency but reduces jitter. <a href="https://github.com/Genymobile/scrcpy#recording" target="_blank" style="color : white">Read More</a> about Recording via Scrcpy.</p>
     </li>
     <li>
     <h4 id="connectivity">Connectivity</h4>
-    <p align= "left" style="font-size:20px; padding: 10px;">As Scrcpy uses <a href="https://developer.android.com/studio/command-line/adb" target="_blank" style="color : white">ADB</a> to communicate with the Device, We can also Mirror Screens over the same Network with TCP/IP. If your Device is Android 11+ you can just use Wireless Debugging. If Wireless Connections aren't Stable you can decrease the bit rate and the resolution. Also, you can Connect your Device to Remote Devices by tunneling the Connections. <a href="https://github.com/Genymobile/scrcpy#connection" target="_blank" style="color : white">Read More</a> about Scrcpy's Connectivity.</p>
+    <p align= "left" style="font-size:20px; padding: 10px;">As Scrcpy uses <a href="https://developer.android.com/studio/command-line/adb" target="_blank" style="color : white">ADB</a> to communicate with the Device, We can also Mirror Screens over the same Network with TCP/IP. If your Device is Android 11+ you can just use <a href="https://developer.android.com/studio/command-line/adb#connect-to-a-device-over-wi-fi" target="_blank" style="color : white">Wireless Debugging</a>. If Wireless Connections aren't Stable you can decrease the bit rate and the resolution. Also, you can Connect your Device to Remote Devices by tunneling the Connections. <a href="https://github.com/Genymobile/scrcpy#connection" target="_blank" style="color : white">Read More</a> about Scrcpy's Connectivity.</p>
     </li>
     <li>
     <h4 id="window_configuration">Window Cnfiguration</h4>
@@ -43,6 +41,10 @@ Installation Commands : Using <a href="https://vighneshnilajakar.github.io/blogs
     </li>
 </ul>
 <h3 id="guiscrcpy">GUIscrcpy</h3>
-<p align= "left" style="font-size:20px; padding: 10px;">You can use <a href="https://guiscrcpy.srev.in/" target="_blank" style="color : white">guiscrcpy</a>, It is a Simple, Pluggable, Multi-Platform, Graphical User Interface for scrcpy. It is written entirely in Python, You can check its <a href="https://github.com/srevinsaju/guiscrcpy#-guiscrcpy" target="_blank" style="color : white">GitHub Page</a> for more Instructions. You can Install it with <a href="https://vighneshnilajakar.github.io/blogs/package_management/#scoop" target="_blank" style="color : white">Scoop Package Manager</a>. You can read its Features here on their Github Page.</p>
+<p align= "left" style="font-size:20px; padding: 10px;">You can use <a href="https://guiscrcpy.srev.in/" target="_blank" style="color : white">guiscrcpy</a>, It is a Simple, Pluggable, Multi-Platform, Graphical User Interface for scrcpy. It is written entirely in Python, You can check its <a href="https://github.com/srevinsaju/guiscrcpy#-guiscrcpy" target="_blank" style="color : white">GitHub Page</a> for more Instructions. You can Install it with <a href="https://vighneshnilajakar.github.io/blogs/package_management/#scoop" target="_blank" style="color : white">Scoop Package Manager</a>.
+<br>
+<code style="padding: 10px; font-size: 90%">scoop bucket add extras</code> 
+<br>
+<code style="padding: 10px; font-size: 90%">scoop install guiscrcpy</code></p>
 <h3 id="conclusion">Conclusion</h3>
 <p align= "left" style="font-size:20px; padding: 10px;">All in All, scrcpy is an Award Winning Screen Mirroring Tool. It's a great alternative to those Propritrary Screen Mirroring Software. I think there are really great Projects you can do with Screen Mirroring. It just takes your Old Smartphone and Machine to reuse. Find the Beauty of using your Hardware to the Limits with me.</p>
