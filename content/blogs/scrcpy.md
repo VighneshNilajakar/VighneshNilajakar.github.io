@@ -10,6 +10,7 @@ date: 2022-12-17
 <br>
 Installation Commands : Using <a href="https://vighneshnilajakar.github.io/blogs/package_management/#chocolatey" target="_blank" style="color : white">choco</a>,
 <br>
+<br>
 <code style="padding: 10px; font-size: 90%">choco install adb</code> 
 <br>
 <code style="padding: 10px; font-size: 90%">choco install scrcpy </code></p>
