@@ -27,7 +27,7 @@ export default function Projects() {
       description:
         "Built a wearable prototype using ESP32-CAM for real-time image/audio capture and AI inference, enabling interactive voice-visual responses.",
       tags: ["ESP32", "Computer Vision", "AI Inference", "IoT"],
-      github: "https://github.com/VighneshNilajakar",
+      github: "https://github.com/VighneshNilajakar/HOTPIN",
       featured: true,
     },
     {
